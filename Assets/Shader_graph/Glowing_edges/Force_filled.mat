@@ -55,9 +55,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Line_Scale: 20
-    - _Line_Speed: 1.5
-    - _Line_Strength: 0.73
+    - _Line_Scale: 0.99
+    - _Line_Speed: 0.1
+    - _Line_Strength: 0.63
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rim_Power: 2.46
