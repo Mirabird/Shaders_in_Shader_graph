@@ -51,12 +51,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Cutoff: 0.539
+    - _Cutoff: 1
     - _Edge_Size: 0.05
     - _Noise_Scale: 25
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Edges2_color: {r: 0.25461137, g: 1, b: 0.007843137, a: 0}
+    - _Edges2_color: {r: 4.576634, g: 18.379171, b: 0, a: 0}
     - _Main_Color: {r: 0.38823527, g: 0.38823527, b: 0.38823527, a: 1}
   m_BuildTextureStacks: []
