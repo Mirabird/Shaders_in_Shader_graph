@@ -55,12 +55,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Line_Scale: 10
-    - _Line_Strength: 1
+    - _Line_Scale: 20
+    - _Line_Speed: 1.5
+    - _Line_Strength: 0.73
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rim_Power: 3
+    - _Rim_Power: 2.46
     m_Colors:
-    - _Main_Color: {r: 0, g: 1, b: 0.9032862, a: 0.22745098}
+    - _Main_Color: {r: 0, g: 4.9245777, b: 4.448303, a: 0.22745098}
     - _Rim_Color: {r: 0.2170167, g: 0.9056604, b: 0.9056604, a: 1}
   m_BuildTextureStacks: []
