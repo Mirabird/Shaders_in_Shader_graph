@@ -51,7 +51,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Depth_Fade_Distance: 0.75
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _Wave_Scale: 3
+    - _Wave_Size: 1
+    - _Wave_Speed: 0.5
+    m_Colors:
+    - _Shallow_Color: {r: 0.02702026, g: 0.6509434, b: 0.6446328, a: 0}
+    - _Surface_Color: {r: 0, g: 0.14595297, b: 0.6886792, a: 0}
+    - _Wave_Direction: {r: 1, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
