@@ -55,8 +55,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Parallax_Speed: 0.2
+    - _Parallax_Speed: 0.1
     - _Parralax_Amount: 1
     m_Colors:
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Parallax_Direction: {r: 1, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 2, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
