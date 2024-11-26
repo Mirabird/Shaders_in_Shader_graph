@@ -4,5 +4,7 @@
 
 - Water Shader;
 - Grass Shader;
-- 
+- Dissolved shader;
+- Shader with Parallax effect for 2D scenes
+- Shader with Hologram effect and etc.
 
